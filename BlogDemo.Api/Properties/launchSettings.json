@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BlogEFSqt.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/blogs",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:7021/"
+    }
+  }
+}
