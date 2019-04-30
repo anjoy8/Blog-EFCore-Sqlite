@@ -16,12 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="logs\" />
     <Folder Include="wwwroot\Img\" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlogDemo.Infrastructure\BlogEFSqt.Infrastructure.csproj" />
+    <ProjectReference Include="..\BlogEFSqt.Infrastructure\BlogEFSqt.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

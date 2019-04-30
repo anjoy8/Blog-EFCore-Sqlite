@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlogDemo.Core\BlogEFSqt.Core.csproj" />
+    <ProjectReference Include="..\BlogEFSqt.Core\BlogEFSqt.Core.csproj" />
   </ItemGroup>
 
 </Project>

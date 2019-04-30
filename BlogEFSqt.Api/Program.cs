@@ -20,7 +20,7 @@ namespace BlogEFSqt.Api
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
                 .Enrich.FromLogContext()
                 .WriteTo.Console()
-                .WriteTo.File(Path.Combine("logs", @"log.txt"), rollingInterval: RollingInterval.Day)
+                .WriteTo.File(Path.Combine("Log", @"log.log"), rollingInterval: RollingInterval.Day)
                 .CreateLogger();
 
             var host = CreateWebHostBuilder(args).Build();

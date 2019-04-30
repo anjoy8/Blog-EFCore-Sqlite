@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogEFSqt.Api", "BlogDemo.Api\BlogEFSqt.Api.csproj", "{4138AB17-E938-4F2C-8EE3-354936196D40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogEFSqt.Api", "BlogEFSqt.Api\BlogEFSqt.Api.csproj", "{4138AB17-E938-4F2C-8EE3-354936196D40}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogEFSqt.Core", "BlogDemo.Core\BlogEFSqt.Core.csproj", "{E16FF307-6F96-4498-8D78-6D5270341360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogEFSqt.Core", "BlogEFSqt.Core\BlogEFSqt.Core.csproj", "{E16FF307-6F96-4498-8D78-6D5270341360}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogEFSqt.Infrastructure", "BlogDemo.Infrastructure\BlogEFSqt.Infrastructure.csproj", "{7E926050-A1E5-4DC2-B335-B2C7C2255063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogEFSqt.Infrastructure", "BlogEFSqt.Infrastructure\BlogEFSqt.Infrastructure.csproj", "{7E926050-A1E5-4DC2-B335-B2C7C2255063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
